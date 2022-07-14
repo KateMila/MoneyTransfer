@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/wyhhw2ov2tsych7x?svg=true)](https://ci.appveyor.com/project/KateMila/moneytransfer)
